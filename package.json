@@ -1,0 +1,23 @@
+{
+  "name": "statix-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hemamaps/statix-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hemamaps/statix-demo/issues"
+  },
+  "homepage": "https://github.com/hemamaps/statix-demo#readme",
+  "devDependencies": {
+    "statix": "github:hemamaps/statix",
+    "webpack": "^1.13.1"
+  }
+}
